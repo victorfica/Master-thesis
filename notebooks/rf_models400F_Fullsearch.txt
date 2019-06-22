@@ -1,0 +1,49 @@
+5 fold
+RandomForestRegressor(bootstrap=True, criterion='mse', max_depth=25,
+           max_features='sqrt', max_leaf_nodes=40,
+           min_impurity_decrease=0.0, min_impurity_split=None,
+           min_samples_leaf=2, min_samples_split=10,
+           min_weight_fraction_leaf=0.0, n_estimators=30, n_jobs=-1,
+           oob_score=False, random_state=1, verbose=0, warm_start=False)
+Train MSE : 0.9855667796151633
+Train MAE : 0.712306731927932
+Train R^2 : 0.5392644633798036
+Test R^2 : 0.47735507462075366
+Test MSE : 0.9655340140518578
+Test MAE : 0.759600288416141
+Root mean square error for test dataset: 0.98
+pearson corr:
+[[1.        0.7005726]
+ [0.7005726 1.       ]]5 fold
+RandomForestRegressor(bootstrap=True, criterion='mse', max_depth=None,
+           max_features='sqrt', max_leaf_nodes=50,
+           min_impurity_decrease=0.0, min_impurity_split=None,
+           min_samples_leaf=1, min_samples_split=10,
+           min_weight_fraction_leaf=0.0, n_estimators=30, n_jobs=-1,
+           oob_score=False, random_state=1, verbose=0, warm_start=False)
+Train MSE : 0.7744340675354555
+Train MAE : 0.6413742067386768
+Train R^2 : 0.6379653788429905
+Test R^2 : 0.504952671650985
+Test MSE : 0.9145502249727818
+Test MAE : 0.7300975713549153
+Root mean square error for test dataset: 0.96
+pearson corr:
+[[1.         0.71915325]
+ [0.71915325 1.        ]]10 fold
+RandomForestRegressor(bootstrap=True, criterion='mse', max_depth=None,
+           max_features='sqrt', max_leaf_nodes=70,
+           min_impurity_decrease=0.0, min_impurity_split=None,
+           min_samples_leaf=1, min_samples_split=2,
+           min_weight_fraction_leaf=0.0, n_estimators=300, n_jobs=-1,
+           oob_score=False, random_state=1, verbose=0, warm_start=False)
+Train MSE : 0.5178343892512987
+Train MAE : 0.5567267413260787
+Train R^2 : 0.7635667785591401
+Test R^2 : 0.37950733046138563
+Test MSE : 1.0339530157128027
+Test MAE : 0.7293166147482881
+Root mean square error for test dataset: 1.02
+pearson corr:
+[[1.         0.61897249]
+ [0.61897249 1.        ]]

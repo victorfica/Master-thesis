@@ -1,0 +1,50 @@
+5 fold
+SVR(C=0.2, cache_size=200, coef0=0.0, degree=2, epsilon=0.1, gamma=0.02,
+  kernel='poly', max_iter=-1, shrinking=True, tol=0.001, verbose=False)
+Train MSE : 0.6287770242918782
+Train MAE : 0.4338131561751789
+Train R^2 : 0.7129125054126486
+Test R^2 : 0.30941804294112885
+Test MSE : 1.150745741490881
+Test MAE : 0.7273478359041108
+Root mean square error for test dataset: 1.07
+pearson corr:
+[[1.         0.58356757]
+ [0.58356757 1.        ]]5 fold
+SVR(C=0.2, cache_size=200, coef0=0.0, degree=2, epsilon=0.1, gamma=0.02,
+  kernel='poly', max_iter=-1, shrinking=True, tol=0.001, verbose=False)
+Train MSE : 0.6287770242918782
+Train MAE : 0.4338131561751789
+Train R^2 : 0.7129125054126486
+Test R^2 : 0.30941804294112885
+Test MSE : 1.150745741490881
+Test MAE : 0.7273478359041108
+Root mean square error for test dataset: 1.07
+pearson corr:
+[[1.         0.58356757]
+ [0.58356757 1.        ]]5 fold
+SVR(C=0.2, cache_size=200, coef0=0.0, degree=2, epsilon=0.1, gamma=0.02,
+  kernel='poly', max_iter=-1, shrinking=True, tol=0.001, verbose=False)
+Train MSE : 0.6287770242918782
+Train MAE : 0.4338131561751789
+Train R^2 : 0.7129125054126486
+Test R^2 : 0.30941804294112885
+Test MSE : 1.150745741490881
+Test MAE : 0.7273478359041108
+Root mean square error for test dataset: 1.07
+pearson corr:
+[[1.         0.58356757]
+ [0.58356757 1.        ]]5 fold
+SVR(C=0.7000000000000001, cache_size=200, coef0=0.0, degree=2, epsilon=0.1,
+  gamma=0.01, kernel='poly', max_iter=-1, shrinking=True, tol=0.001,
+  verbose=False)
+Train MSE : 0.6658793263103499
+Train MAE : 0.44703378044941
+Train R^2 : 0.6959723079843123
+Test R^2 : 0.30469729625278985
+Test MSE : 1.158612120119421
+Test MAE : 0.7278581799501453
+Root mean square error for test dataset: 1.08
+pearson corr:
+[[1.         0.58084119]
+ [0.58084119 1.        ]]
