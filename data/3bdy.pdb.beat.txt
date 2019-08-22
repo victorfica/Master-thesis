@@ -1,0 +1,12 @@
+3bdy.pdb [HL+V] H    98    D K  DDG_bind=   0.09 kcal/mol   Interface= yes   Acc= [HL] 86.96 [HLV] 80.66 
+3bdy.pdb [HL+V] H    98    D H  DDG_bind=   0.12 kcal/mol   Interface= yes   Acc= [HL] 86.96 [HLV] 80.66 
+3bdy.pdb [HL+V] H    98    D W  DDG_bind=   0.18 kcal/mol   Interface= yes   Acc= [HL] 86.96 [HLV] 80.66 
+3bdy.pdb [HL+V] H    98    D Y  DDG_bind=   0.22 kcal/mol   Interface= yes   Acc= [HL] 86.96 [HLV] 80.66 
+3bdy.pdb [HL+V] H    98    D F  DDG_bind=   0.22 kcal/mol   Interface= yes   Acc= [HL] 86.96 [HLV] 80.66 
+3bdy.pdb [HL+V] H    98    D M  DDG_bind=   0.19 kcal/mol   Interface= yes   Acc= [HL] 86.96 [HLV] 80.66 
+3bdy.pdb [HL+V] H    99    G R  DDG_bind=   0.37 kcal/mol   Interface= yes   Acc= [HL] 68.10 [HLV] 15.89 
+3bdy.pdb [HL+V] H    99    G M  DDG_bind=  -0.12 kcal/mol   Interface= yes   Acc= [HL] 68.10 [HLV] 15.89 
+3bdy.pdb [HL+V] H    99    G D  DDG_bind=   0.54 kcal/mol   Interface= yes   Acc= [HL] 68.10 [HLV] 15.89 
+3bdy.pdb [HL+V] H    52    Y R  DDG_bind=   0.79 kcal/mol   Interface= yes   Acc= [HL] 27.87 [HLV] 19.85 
+3bdy.pdb [HL+V] H    33    Y W  DDG_bind=   0.62 kcal/mol   Interface= yes   Acc= [HL] 20.27 [HLV]  2.96 
+3bdy.pdb [HL+V] H    33    Y M  DDG_bind=   1.16 kcal/mol   Interface= yes   Acc= [HL] 20.27 [HLV]  2.96 
