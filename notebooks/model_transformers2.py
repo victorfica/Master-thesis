@@ -1,5 +1,5 @@
 from sklearn.base import BaseEstimator, TransformerMixin
-from sklearn.preprocessing import QuantileTransformer
+from sklearn.preprocessing import QuantileTransformer,PowerTransformer
 from scipy import stats
 import numpy as np
 
@@ -38,7 +38,7 @@ class SkewTransformer(BaseEstimator, TransformerMixin):
         self.skew_cols = index_col[skew_mask]
         
         #self.t = PowerTransformer(method='yeo-johnson', standardize=False, copy=True)
-        self.t = QuantileTransformer(output_distribution="normal",random_state=13)
+        self.t = QuantileTransformer(output_distribution="normal",n_quantiles=800,random_state=13)
         self.t.fit(X[:,self.skew_cols])
         
         return self
