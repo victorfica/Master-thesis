@@ -112,7 +112,7 @@ foldx5Linux64/
 pdbs_to_repair/
 pdbsWT_to_repair/
 wt_modells/
-benchmark/
+.abpred_tmp/
 prodigy-master/
 AB-Bind-Database-master/
 popout/
